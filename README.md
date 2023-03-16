@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=8BBDFF&height=300&section=header&text=GORAE&fontSize=60)
 
 <!--
 **raelulu/raelulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raelulu&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raelulu&show_icons=true&theme=transparent)

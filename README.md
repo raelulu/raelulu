@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=1266FF&height=300&section=header&text=GO!RAE&fontSize=60&fontColor=FFA9FF&animation=fadeIn      )
 
- ## Stack
+ ## 🌊Stack🌊
 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
@@ -15,13 +15,13 @@
    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
   
-  ## Cowork tools 
+  ## 🌊Cowork tools🌊
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
   
-   ## Contact
+   ## 🐬Contact🐬
   
 </div>
 

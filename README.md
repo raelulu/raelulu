@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=1266FF&height=300&section=header&text=GO!RAE&fontSize=60&fontColor=FFA9FF&animation=fadeIn      )
 
+<img src="https://user-images.githubusercontent.com/115077413/226526513-4d870598-9e74-4de7-8143-71479794aa34.png">
+
  ## 🐬Stack🐬
 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">

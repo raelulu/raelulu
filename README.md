@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=1266FF&height=300&section=header&text=GO!RAE&fontSize=60&fontColor=FFA9FF&animation=fadeIn      )
 
-<img src="https://user-images.githubusercontent.com/115077413/226526513-4d870598-9e74-4de7-8143-71479794aa34.png">
+<img src="https://user-images.githubusercontent.com/115077413/226526837-4b209e5f-46a0-4d27-b654-8ded4ef6ca6d.gif">
+ 
 
  ## 🐬Stack🐬
 

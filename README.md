@@ -2,11 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=1266FF&height=300&section=header&text=GO!RAE&fontSize=60&fontColor=FFA9FF&animation=fadeIn      )
 
-<img src="https://user-images.githubusercontent.com/115077413/226526837-4b209e5f-46a0-4d27-b654-8ded4ef6ca6d.gif">
- 
+##### 안녕하세요. 가치를 수확하는 개발자 고형래입니다.
+##### 농부로서의 과거와 개발자로서의 현재를 통해 머무르지 않고 성장 중입니다.
+
+<br>
+<br>
+
 
  ## 🐬Stack🐬
-
+ 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">

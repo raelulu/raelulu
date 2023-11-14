@@ -2,9 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=1266FF&height=300&section=header&text=GO!RAE&fontSize=60&fontColor=FFA9FF&animation=fadeIn      )
 
-##### 안녕하세요. 가치를 수확하는 개발자 고형래입니다.
-##### 농부로서의 과거와 개발자로서의 현재를 통해 머무르지 않고 성장 중입니다.
-
+#### HELLO, 
+#### I'M INTERESTED IN DEVELOPMENT
 <br>
 <br>
 

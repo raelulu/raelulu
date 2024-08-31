@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=1266FF&height=300&section=header&text=GO!RAE&fontSize=60&fontColor=FFA9FF&animation=fadeIn      )
 
 #### HELLO, 
-#### I AM HYEONGRAE! 👩‍💻
+#### IT'S GROWING! 👩‍💻
 <br>
 <br>
 
